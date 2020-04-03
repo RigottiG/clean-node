@@ -4,23 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest --watchAll",
-    "test:staged": "jest"
-  },
-  "standard": {
-    "env": ["jest"]
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "husky": "4.2.3",
-    "jest": "25.2.6",
-    "lint-staged": "10.1.1",
-    "standard": "14.3.3"
   },
   "dependencies": {
-    "express": "^4.17.1",
-    "mongoose": "^5.9.7"
   }
 }
