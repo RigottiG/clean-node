@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest",
-    "test:watch": "jest --watchAll"
+    "test": "jest --watchAll",
+    "test:staged": "jest"
   },
   "standard": {
     "env": ["jest"]
