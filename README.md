@@ -1,6 +1,4 @@
 # SingUp API
-#### Simply write beautiful API documentation.
-
 This project is a simple API made with Typescript, NodeJs, TDD, SOLID and Clean Architecture
 
 ## Getting Started with SingUp API
